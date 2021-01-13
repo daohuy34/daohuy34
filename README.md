@@ -1,4 +1,4 @@
-### Hi there, I'm Huy, a passionate Web Developer 🚀 from Viet Nam. 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Huy, a passionate Web Developer 🚀 from Viet Nam.
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
