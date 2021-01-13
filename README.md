@@ -6,7 +6,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<p align="center">![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=daohuy34&show_icons=true&theme=radical)</p>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=daohuy34&show_icons=true&theme=radical)
 
 <!--
 **daohuy34/daohuy34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
