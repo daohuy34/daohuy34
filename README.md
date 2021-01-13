@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Huy, a passionate self-taught Full Stack Web Developer 🚀 from Viet Nam. 👋
 <!--
 **daohuy34/daohuy34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
