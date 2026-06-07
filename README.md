@@ -1,25 +1,164 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Huy, a passionate Web Developer from Viet Nam.
-**Languages and Tools:**  
+<div align="center">
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C9A7,100:6A5ACD&text=Huy%20Dao&fontSize=60&fontAlignY=40&animation=fadeIn"/>
 
-![Hhuy's github stats](https://github-readme-stats.vercel.app/api?username=daohuy34&show_icons=true&theme=radical)
+# 👋 Hi, I'm Huy Dao
 
-<!--
-![Hhuy's github stats](https://github-readme-stats.vercel.app/api?username=daohuy34&show_icons=true&theme=radical)
-**daohuy34/daohuy34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Building Tools for the Vue Ecosystem
 
-Here are some ideas to get you started:
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Creator+of+Vue+Doctor;Creator+of+Vue+Lab;Open+Source+Builder;Vue+%26+Nuxt+Developer;Building+Developer+Tools+for+Vue" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+# 🚀 Mission
+
+I build products and developer tools that help Vue teams create scalable, maintainable, and high-quality applications.
+
+My current focus is creating an ecosystem around Vue development tooling.
+
+---
+
+# 🌟 Open Source Projects
+
+## 🔍 Vue Doctor
+
+Static Analysis Platform for Vue & Nuxt Applications.
+
+### Current Features
+
+* Architecture Validation
+* Dependency Analysis
+* Performance Diagnostics
+* Auto Fix Suggestions
+* CI/CD Integration
+
+### Vision
+
+Become the go-to quality platform for Vue teams.
+
+---
+
+## 🧪 Vue Lab
+
+Modern Vue Component Library & UI Playground.
+
+### Current Features
+
+* Reusable Components
+* Design System Foundation
+* Interactive Playground
+* Enterprise-ready Structure
+
+### Vision
+
+Accelerate UI development for Vue projects.
+
+---
+
+# 🗺 Ecosystem Roadmap
+
+### Vue Doctor
+
+✅ Core Analysis Engine
+
+✅ Rule Engine
+
+✅ Reporter System
+
+🚧 Project Graph Engine
+
+🚧 Architecture Analysis
+
+🚧 Dependency Visualization
+
+🚧 Performance Intelligence
+
+🔜 VSCode Extension
+
+🔜 Cloud Dashboard
+
+---
+
+### Vue Lab
+
+🚧 Component Library
+
+🚧 Documentation System
+
+🚧 Playground
+
+🔜 Theme Builder
+
+🔜 Design Tokens
+
+🔜 Visual Editor
+
+---
+
+# 🎯 2026 Goals
+
+* 🚀 Grow Vue Doctor adoption
+* 📦 Publish multiple Vue ecosystem packages
+* 🌎 Build tools used by developers worldwide
+* ⭐ Grow open source community around Vue Doctor
+* 🧪 Release Vue Lab v1
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=daohuy34&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daohuy34&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daohuy34&theme=tokyo-night" />
+</p>
+
+---
+
+# 📚 Current Interests
+
+* Software Architecture
+* Static Analysis
+* AST Engineering
+* Developer Experience (DX)
+* Vue Ecosystem Tooling
+* Open Source Development
+
+---
+
+# 📫 Connect
+
+<p align="left">
+
+<a href="https://github.com/daohuy34">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 Building the future of Vue Developer Experience
+
+</div>
