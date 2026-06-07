@@ -7,7 +7,7 @@
 ### Building Tools for the Vue Ecosystem
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Creator+of+Vue+Doctor;Creator+of+Vue+Lab+CI;Vue+%26+Nuxt+Developer;React+developer;Building+Developer+Tools+for+Vue" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Creator+of+Vue+Doctor;Creator+of+Vue+Lab+CI;Vue+%26+Nuxt+Developer;React+Developer;Building+Developer+Tools+for+Vue" />
 </p>
 
 </div>
@@ -51,46 +51,6 @@ Building a complete ecosystem for Vue developers:
 * 🔍 Vue Doctor → Code Quality & Architecture Analysis
 * 🧪 Vue Lab → UI Components & Design System
 * 🔜 More developer tools coming soon
-
----
-
-# 🗺 Ecosystem Roadmap
-
-### Vue Doctor
-
-✅ Core Analysis Engine
-
-✅ Rule Engine
-
-✅ Reporter System
-
-🚧 Project Graph Engine
-
-🚧 Architecture Analysis
-
-🚧 Dependency Visualization
-
-🚧 Performance Intelligence
-
-🔜 VSCode Extension
-
-🔜 Cloud Dashboard
-
----
-
-### Vue Lab
-
-🚧 Component Library
-
-🚧 Documentation System
-
-🚧 Playground
-
-🔜 Theme Builder
-
-🔜 Design Tokens
-
-🔜 Visual Editor
 
 ---
 
