@@ -7,7 +7,7 @@
 ### Building Tools for the Vue Ecosystem
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Creator+of+Vue+Doctor;Creator+of+Vue+Lab;Open+Source+Builder;Vue+%26+Nuxt+Developer;Building+Developer+Tools+for+Vue" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Creator+of+Vue+Doctor;Creator+of+Vue+Lab;Vue+%26+Nuxt+Developer;React-developer;Building+Developer+Tools+for+Vue" />
 </p>
 
 </div>
@@ -149,7 +149,7 @@ Accelerate UI development for Vue projects.
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:daohuy34@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
