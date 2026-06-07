@@ -7,7 +7,7 @@
 ### Building Tools for the Vue Ecosystem
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Creator+of+Vue+Doctor;Creator+of+Vue+Lab;Vue+%26+Nuxt+Developer;React-developer;Building+Developer+Tools+for+Vue" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Creator+of+Vue+Doctor;Creator+of+Vue+Lab+CI;Vue+%26+Nuxt+Developer;React+developer;Building+Developer+Tools+for+Vue" />
 </p>
 
 </div>
@@ -22,40 +22,35 @@ My current focus is creating an ecosystem around Vue development tooling.
 
 ---
 
-# 🌟 Open Source Projects
+# 📦 Open Source Packages
 
-## 🔍 Vue Doctor
+### 🔍 Vue Doctor
 
 Static Analysis Platform for Vue & Nuxt Applications.
 
-### Current Features
+[📦 NPM Package](https://www.npmjs.com/package/@daohuy34/vue-doctor)
 
-* Architecture Validation
-* Dependency Analysis
-* Performance Diagnostics
-* Auto Fix Suggestions
-* CI/CD Integration
-
-### Vision
-
-Become the go-to quality platform for Vue teams.
+[💻 GitHub Repository](https://github.com/daohuy34/vue-doctor)
 
 ---
 
-## 🧪 Vue Lab
+### 🧪 Vue Lab
 
 Modern Vue Component Library & UI Playground.
 
-### Current Features
+[📦 NPM Package](https://www.npmjs.com/package/vue-lab-ci)
 
-* Reusable Components
-* Design System Foundation
-* Interactive Playground
-* Enterprise-ready Structure
+[💻 GitHub Repository](https://github.com/daohuy34/vue-lab)
 
-### Vision
+---
 
-Accelerate UI development for Vue projects.
+### 🚀 Ecosystem Vision
+
+Building a complete ecosystem for Vue developers:
+
+* 🔍 Vue Doctor → Code Quality & Architecture Analysis
+* 🧪 Vue Lab → UI Components & Design System
+* 🔜 More developer tools coming soon
 
 ---
 
